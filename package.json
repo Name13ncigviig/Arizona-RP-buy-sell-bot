@@ -1,0 +1,21 @@
+{
+  "name": "arizona-rp-buy-sell-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node shop-telegram.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Name13ncigviig/Arizona-RP-buy-sell-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Name13ncigviig/Arizona-RP-buy-sell-bot/issues"
+  },
+  "homepage": "https://github.com/Name13ncigviig/Arizona-RP-buy-sell-bot#readme"
+}
