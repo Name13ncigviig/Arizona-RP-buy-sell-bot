@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Name13ncigviig/Arizona-RP-buy-sell-bot/issues"
   },
-  "homepage": "https://github.com/Name13ncigviig/Arizona-RP-buy-sell-bot#readme"
+  "homepage": "https://github.com/Name13ncigviig/Arizona-RP-buy-sell-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.67.0"
+  }
 }
